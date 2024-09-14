@@ -1,5 +1,5 @@
-## Hi👋, I'm Alexander Florean
-a data scientist based in Sweden with a passion for AI and LLM (Large Language Model) applications. I enjoy exploring the intersection of machine learning, natural language processing, software development, and real-world problem-solving. 
+## Hi, I'm Alexander Florean 👋
+I'm a data scientist based in Sweden with a passion for AI and LLM (Large Language Model) applications. I enjoy exploring the intersection of machine learning, natural language processing, software development, and real-world problem-solving. 
 <!--
 **alexanderflorean/alexanderflorean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
